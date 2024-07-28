@@ -56,3 +56,4 @@ Evaluation Metrics:
 Measure the model's accuracy, precision, recall, and F1-score using a separate test dataset or real-world scenarios.
 Conclusion
 This project demonstrates the use of Edge Impulse for developing a facial object detection model. The combination of Edge Impulse's machine learning capabilities and the flexibility of edge devices allows for efficient and accurate detection of facial objects in real-time.
+![run_the_model](https://github.com/user-attachments/assets/a52f12e6-6ed4-45dd-9878-4209468eaf90)
